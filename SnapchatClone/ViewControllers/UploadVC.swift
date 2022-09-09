@@ -2,7 +2,7 @@
 //  UploadVC.swift
 //  SnapchatClone
 //
-//  Created by Mehmet Ali Kılıçlı on 30.08.2022.
+//  Created by Muhammed Enes Kılıçlı on 30.08.2022.
 //
 
 import UIKit
