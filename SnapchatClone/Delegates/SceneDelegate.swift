@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  SnapchatClone
 //
-//  Created by Mehmet Ali Kılıçlı on 28.08.2022.
+//  Created by Muhammed Enes Kılıçlı on 28.08.2022.
 //
 
 import UIKit
